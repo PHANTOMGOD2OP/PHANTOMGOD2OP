@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/phantomgod_dev" target="blank"><img src="https://img.shields.io/twitter/follow/phantomgod_dev?logo=twitter&style=for-the-badge" alt="phantomgod_dev" /></a> </p>
 
-- I am a Fulltime Passionate Developer , trying to learn something new everyday and explore new Programming Languages and Create Apps with them. [CompanionAi](Not Yet Published)
+- 💻 I'm currently Working on [CompanionAi]()
 
 - 🌱 I’m currently learning **Game Development**
 
