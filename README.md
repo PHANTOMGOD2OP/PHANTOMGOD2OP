@@ -1,4 +1,4 @@
-# 💫 About Me: I am a Fulltime Passionate Developer , Freelancer who lives in Mumbai>India (Currently 16yrs old) , trying to learn something new everyday and explore new Programming Languages and Create Apps with them.
+# ![C](https://i.ibb.co/M5Qhhhg/profile.png) About Me: I am a Fulltime Passionate Developer , Freelancer who lives in Mumbai>India (Currently 16yrs old) , trying to learn something new everyday and explore new Programming Languages and Create Apps with them.
 💻 I'm currently Working on CompanionAi<br><br>🌱 I’m currently learning Game Development<br><br>👯 I’m looking to collaborate on GeniusAI<br><br>🤝 I’m looking for help with Promptopia<br><br>👨‍💻 All of my projects are available at https://phantomgod-dev.netlify.app<br><br>💬 Ask me about ReactJs , Python , Vue , NextJs<br><br>📫 How to reach me phantom.god.dev@gmail.com<br><br>⚡ Fun fact I Learnt how to code at the age of 12 , and started making FullStack Production Quality Apps
 
 
@@ -15,17 +15,17 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PHANTOMGOD2OP&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Developer Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=PHANTOMGOD2OP&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+### Spotify Recently Played Tracks
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=7qv43z690trjmolkqi14725dn&unique={true|1|on|yes})
 
-  ## 💰 You can help me by Donating
+### 💰 You can help me by 
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/phantomgoD) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ 
