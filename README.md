@@ -24,8 +24,7 @@
 ### Spotify Recently Played Tracks
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=7qv43z690trjmolkqi14725dn&unique={true|1|on|yes})
 
-### 💰 You can help me by 
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/phantomgoD) 
-
+### 💰 YOU CAN SUPPORT ME BY
+ <h3>Giving My Repositories A Star</h3>
   
  
