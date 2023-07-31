@@ -21,8 +21,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=PHANTOMGOD2OP&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### Spotify Recently Played Tracks
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=7qv43z690trjmolkqi14725dn&unique={true|1|on|yes})
 
 ### 💰 YOU CAN SUPPORT ME BY
  <h3>Giving My Repositories A Star</h3>
