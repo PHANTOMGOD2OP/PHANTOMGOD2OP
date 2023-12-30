@@ -5,7 +5,6 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/phantomgod_vedant) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/PHANTOMGOD_DEV) [![Discord](https://dcbadge.vercel.app/api/server/swdEMTXyGk&)]( https://discord.gg/swdEMTXyGk)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/phantomgod_vedant) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/PHANTOMGOD_DEV) [![Discord](https://dcbadge.vercel.app/api/server/swdEMTXyGk)]( https://discord.gg/swdEMTXyGk)
 
 
 # 💻 Tech Stack:
