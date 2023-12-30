@@ -3,7 +3,9 @@
 💻 I'm currently Working on [YODDA-AI](https://github.com/PHANTOMGOD2OP/YODDA_AI)<br><br>🌱 I’m currently learning Game Development<br><br>⚡Love Playing [Chess](https://www.chess.com/member/PHANTOMGOD2OP) , Always Ready If Someone wants to Challenge<br><br>👯 I’m looking to collaborate on [SportSync](https://github.com/PHANTOMGOD2OP/SportSync)<br><br>🤝 I’m looking for help with UI/UX Design For My Apps<br><br>👨‍💻 My Personal Portfolio Is Available [Here](https://phantomgod-dev.netlify.app)<br><br>💬 Ask me about ReactJs , Python , Vue , NextJs , Angular , C++ , Python , Unreal Engine<br><br>📫 How To Reach Me [Mail](mailto:phantom.god.dev@gmail.com)<br><br>![](https://visitcount.itsvg.in/api?id=PHANTOMGOD2OP&label=Profile%20Views&color=0&icon=0&pretty=true)
 
 
-
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/phantomgod_vedant) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/PHANTOMGOD_DEV) [![Discord](https://dcbadge.vercel.app/api/server/swdEMTXyGk&)]( https://discord.gg/swdEMTXyGk)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/phantomgod_vedant) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/PHANTOMGOD_DEV) [![Discord](https://dcbadge.vercel.app/api/server/swdEMTXyGk)]( https://discord.gg/swdEMTXyGk)
 
 
 # 💻 Tech Stack:
