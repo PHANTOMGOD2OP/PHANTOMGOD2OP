@@ -1,8 +1,8 @@
 # ![C](https://i.ibb.co/M5Qhhhg/profile.png) About Me: I am a Fulltime Passionate Developer , who lives in India , Mumbai , trying to learn something new everyday and explore new Programming Languages and build new projects with them.
-💻 I'm currently Working on CompanionAi<br><br>🌱 I’m currently learning Game Development<br><br>👯 I’m looking to collaborate on GeniusAI<br><br>🤝 I’m looking for help with Promptopia<br><br>👨‍💻 All of my projects are available at https://phantomgod-dev.netlify.app<br><br>💬 Ask me about ReactJs , Python , Vue , NextJs<br><br>📫 How to reach me phantom.god.dev@gmail.com<br><br>⚡ Fun fact I Learnt how to code at the age of 12 , and started making FullStack Production Quality Apps
+💻 I'm currently Working on CompanionAi<br><br>🌱 I’m currently learning Game Development<br><br>⚡Love Playing [Chess](https://www.chess.com/member/PHANTOMGOD2OP) , Always Ready If Someone wants to Challenge<br><br>👯 I’m looking to collaborate on GeniusAI<br><br>🤝 I’m looking for help with Promptopia<br><br>👨‍💻 All of my projects are available at https://phantomgod-dev.netlify.app<br><br>💬 Ask me about ReactJs , Python , Vue , NextJs<br><br>📫 How to reach me phantom.god.dev@gmail.com<br><br>⚡ Fun fact I Learnt how to code at the age of 12 , and started making FullStack Production Quality Apps
 
 
-## 🌐 Socials:
+## 🌐 Socials: 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/phantomgod_vedant) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/PHANTOMGOD_DEV) [![Discord](https://dcbadge.vercel.app/api/server/swdEMTXyGk)]( https://discord.gg/swdEMTXyGk)
 
 # 💻 Tech Stack:
